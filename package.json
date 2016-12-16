@@ -3,24 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
- 
- "scripts": {
-     "start": "node app.js",
+  "dependencies": {
+    "express": "^4.14.0"
   },
- "repository": {
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
     "type": "git",
-   
- "url": "git+https://github.com/ejmanantan/coen3463m1t18.git"
+    "url": "git+https://github.com/ejmanantan/coen3463m1t18.git"
   },
   "author": "",
-  
-"license": "ISC",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/ejmanantan/coen3463m1t18/issues"
   },
- 
- "homepage": "https://github.com/ejmanantan/coen3463m1t18#readme",
-  "dependencies": {
-    "express": "^4.14.0"
-  }
+  "homepage": "https://github.com/ejmanantan/coen3463m1t18#readme"
 }
